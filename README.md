@@ -1,2 +1,2 @@
 # top-moneyy
-top money
+Musisz sobie kurwa zrobic 
