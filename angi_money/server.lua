@@ -1,5 +1,5 @@
 -- Ustawienie URL webhooka Discord
-local webhookURL = "https://discord.com/api/webhooks/1250913211226521691/AawTOR9TzzE8XZzPsDjKVuYff8EjQAF5eaa6sMXVUCg6ybjZc-mVtTjNLhC9OIJ7ynB5"
+local webhookURL = "webhook"
 
 -- Funkcja wysyłająca wiadomość do webhooka
 function sendToDiscord(message, topPlayer)
